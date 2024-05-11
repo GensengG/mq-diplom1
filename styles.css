@@ -1661,6 +1661,10 @@
     width: 360px;
   }
 
+  .question, .notification {
+    text-align: start;
+  }
+
   .shop-title {
     margin-top: 37px;
     margin-bottom: 30px;
@@ -1704,7 +1708,6 @@
     margin: 0 auto;
     margin-top: -15px;
   }
-
   
   .social-container {
     width: 300px;
