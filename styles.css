@@ -1553,6 +1553,7 @@
   .post-image {
     width: 330px;
     height: 255px;
+    margin: 0 auto;
   }
   
   .post-content {
